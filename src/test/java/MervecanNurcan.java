@@ -1,7 +1,7 @@
 public class MervecanNurcan {
 
 
-    merve is here
+    //merve is here
 
     // Nurcan's work is here'
 
